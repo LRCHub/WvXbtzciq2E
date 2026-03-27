@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "PROUD-remix-",
+  "base_artist": "DAZZLE 4 LIFE",
+  "createdAt": "2026-03-27T18:19:08.869694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Family Proud - Remix",
+      "artist": "Ombre2Choc Nation",
+      "has_synced": false,
+      "path": "select/01_Family_Proud_-_Remix_Ombre2Choc_Nation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Family Proud (Remix)",
+      "artist": "Ombre2Choc Nation",
+      "has_synced": false,
+      "path": "select/02_Family_Proud_(Remix)_Ombre2Choc_Nation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Fear (Make Mama Proud Remix)",
+      "artist": "Make Mama Proud",
+      "has_synced": true,
+      "path": "select/03_Mr._Fear_(Make_Mama_Proud_Remix)_Make_Mama_Proud.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Be Proud (Remix)",
+      "artist": "Witty Minstrel",
+      "has_synced": false,
+      "path": "select/04_Be_Proud_(Remix)_Witty_Minstrel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Fear (Make Mama Proud Remix)",
+      "artist": "Siamés",
+      "has_synced": false,
+      "path": "select/05_Mr._Fear_(Make_Mama_Proud_Remix)_Siamés.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Fear - Make Mama Proud Remix",
+      "artist": "Make Mama Proud, SIAMES",
+      "has_synced": true,
+      "path": "select/06_Mr._Fear_-_Make_Mama_Proud_Remix_Make_Mama_Proud,_SIAMES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "eternity (gary proud remix)",
+      "artist": "Paul van Dyk feat. Adam Young",
+      "has_synced": false,
+      "path": "select/07_eternity_(gary_proud_remix)_Paul_van_Dyk_feat._Adam_Young.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PROUD-remix-",
+      "artist": "DAZZLE 4 LIFE",
+      "has_synced": false,
+      "path": "select/pl_01_PROUD-remix-_DAZZLE_4_LIFE.txt"
+    }
+  ]
+}
